@@ -1,4 +1,5 @@
 # TD3-RL Agent for Nonlinear Mass-Spring-Damper System
+Youtube Video: [Link](https://youtu.be/M37ucY0VHSE)
 This project uses reinforcement learning (RL) to tune PID controllers for a nonlinear mass-spring-damper system. It applies the TD3 algorithm to compare the performance of a traditional PID tuner with an RL-trained PID tuner, evaluated through simulations with step and constant inputs.
 
 ## Overview
